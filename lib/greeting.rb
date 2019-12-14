@@ -1,5 +1,4 @@
 def greeting(name)
-  puts "Enter name here"
+  puts "Enter your name:"
   name = gets
   puts "Hello, " + name
-end
