@@ -1,1 +1,3 @@
-# code the #greeting method here!
+puts "Enter your name"
+name = gets
+puts "Hello, " + name 
